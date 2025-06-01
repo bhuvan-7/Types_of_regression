@@ -86,12 +86,6 @@ Here are a few snapshots of the visualizations included:
 - 🧮 Feature Importance:
   Visual ranking of which features matter most to the model.
 
-<img src="images/actual_vs_pred.png" width="600"/>
-<img src="images/residuals_plot.png" width="600"/>
-<img src="images/feature_importance.png" width="600"/>
-
-> ℹ️ (Note: Replace with actual images or generated charts from your notebook.)
-
 ---
 
 ## 💡 Insights & Observations
