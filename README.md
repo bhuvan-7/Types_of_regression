@@ -118,23 +118,6 @@ The structure is generic enough to handle most regression problems.
 
 ---
 
-## 🧪 Model Comparison Summary
-
-| Model                 | MAE   | RMSE  | R²     |
-|----------------------|-------|-------|--------|
-| Linear Regression     |  .xx  | .xx   | 0.xxxx |
-| Polynomial Regression |  .xx  | .xx   | 0.xxxx |
-| Ridge Regression      |  .xx  | .xx   | 0.xxxx |
-| Lasso Regression      |  .xx  | .xx   | 0.xxxx |
-| ElasticNet Regression |  .xx  | .xx   | 0.xxxx |
-| Decision Tree         |  .xx  | .xx   | 0.xxxx |
-| Random Forest         |  .xx  | .xx   | 0.xxxx |
-| Gradient Boosting 🔥  |  .xx  | .xx   | 0.xxxx |
-
-> 💬 Update the table above with the actual numbers from your notebook outputs.
-
----
-
 ## 🎯 Future Enhancements
 
 - 🔍 Cross-validation for hyperparameter tuning
